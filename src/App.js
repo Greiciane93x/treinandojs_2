@@ -1,13 +1,16 @@
 import './App.css';
-import Button from './Componentes/Button'
 import Input from './Componentes/Input'
+import Button2 from './Componentes/Button2'
 
 function App() {
   return (
     <div className="App">
 
-    Typing in console.log:  <Input /> 
+    Typing in console.log:  <Input />
+    <Button2 /> 
     </div>
+
+    
   );
 }
 

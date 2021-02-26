@@ -8,7 +8,9 @@ export default class Button extends Component {
     }
 
     meuTexto(event){
+    
         console.log(event.target.value)
+    
     }
 
     render(){
