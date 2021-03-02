@@ -1,0 +1,23 @@
+{
+  "name": "pasta-exerc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "treinando2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon treinando4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greiciane93x/treinandojs_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greiciane93x/treinandojs_2/issues"
+  },
+  "homepage": "https://github.com/Greiciane93x/treinandojs_2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
